@@ -1,4 +1,14 @@
-## Hi there 👋
+## About me
+
+Physicist, PhD, Maker, Tinkerer, scuba diver, father of 2, with an interest in optics, science and technology.\
+Just started with Github, learning the ins and outs.
+
+## What I'm currently working at
+- A 2D raytracer, focused on laser light, coherence effects, material surface characteristics
+- A genealogy program, that allows generation of a simple tree-structure family tree from familiy members and their connection
+- A 2D simulation for demonstrating the ideal gas law
+
+Python programming only, for fun, personal desire, or occasional necessity.\
 
 <!--
 **stelejaci/stelejaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
