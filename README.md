@@ -5,7 +5,7 @@ Just started with Github, learning the ins and outs.
 
 ## What I'm currently working at
 Python programming for fun, personal desire, or occasional necessity:
-- A 2D raytracer, focused on laser light, coherence effects, material surface characteristics
+- RaTrace, a 2D raytracer, focused on laser light, coherence effects, material surface characteristics
 - A genealogy program, that allows generation of a simple tree-structure family tree from familiy members and their connection
 - A 2D simulation for demonstrating the ideal gas law
 
